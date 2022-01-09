@@ -22,7 +22,7 @@ Neural networks, also known as artificial neural networks (ANNs) or simulated ne
 * Our input nodes (layer 1), also known as the "input layer", go into another node (layer 2), which finally outputs the hypothesis function, known as the "output layer".
 
    ![eq1](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5CLARGE%20%5Bx_0x_1x_2..x_l%5D%5Crightarrow%20%5Ba_0a_1a_2...a_m%5D%5Crightarrow%20%5By_0y_1y_2...y_n%5D)
-
+  Parameters
   * Each data sample is a 20x20 grayscale image so the we have 400 input units in input layer
   * we have one hidden layer which 25 activation units 
   * Finally output layer contain 10 unit where each unit represents a digit from (0 to 9)
