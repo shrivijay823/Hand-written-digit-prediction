@@ -10,6 +10,7 @@ Neural networks, also known as artificial neural networks (ANNs) or simulated ne
 ## 1. Loading and Visualizing Data 
 * We first load the dataset from *dataset.mat* where each sample in the dataset is *20x20* input images of digit and the target vaiables of the sample are label from (1 to 10). (note that we have mapped "0" to label 10).
 * Now we randomly select 100 data sample and passs it into displayData for visualization
+
 ![sample data visualization](https://github.com/shrivijay823/Hand-written-digit-prediction/blob/outputs/samples%20visz.png)
 
 
